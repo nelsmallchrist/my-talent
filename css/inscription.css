@@ -1,0 +1,40 @@
+body
+{
+    background:linear-gradient(to right , #0069d6, #a916d6);
+}
+.container
+{
+    margin-top:65px;
+}
+.error
+{
+    color: #f52720
+}
+.card-header
+{
+    text-align: center;
+    font-size: 55px;
+    font-weight: bold;
+    border: 1px solid;
+    color: aliceblue;
+    background:linear-gradient(to right , #0069d6, #a916d6);
+    text-transform: uppercase;
+    font-style: italic;
+}
+.login-register
+{
+    border-radius: 4px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background:linear-gradient(to right , #0069d6, #a916d6);
+    text-transform: uppercase;
+    font-style: italic;
+}
+.btn
+{
+    background:linear-gradient(to right , #0069d6, #a916d6);
+}
+a{
+    color: #fff;
+}
